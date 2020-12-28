@@ -25,6 +25,8 @@
 
 ## Environment
 
+- :link: [Install MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
+
 - [Linux](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Linux)
 
 ---
