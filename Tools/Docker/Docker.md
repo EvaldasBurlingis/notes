@@ -24,6 +24,7 @@ docker system df			        # show disk usage
 #---------------
 docker ps 				            # list all runing containers
 docker exec -it <container> bash	# run command inside container
+docker-compose exec <service> bash  # run command inside specified service in docker-compose
 
 #---------------
 # CONTAINERS

@@ -4,10 +4,12 @@
 
 use <database name>;                    # select database
 SHOW databases;                         # list databases
-CREATE DATABASE <database name>;         # create new databse
+CREATE DATABASE <database name>;        # create new databse
+DROP DATABASE <database name>           # drop database
 
 SHOW TABLES;                            # list tables
-CREATE TABLE <table name>;               # create table
+CREATE TABLE <table name>;              # create table
+DROP TABLE <table name>;                # remove table
 
 
 ```
