@@ -5,6 +5,7 @@
 - [PHP](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/PHP)
 - [Javacript](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript)
     - [Cheatsheet](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript/cheatsheet.md)
+    - [Books](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript/books.md)
 - [MYSQL](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/SQL/MYSQL/mysql.md)
 
 ---

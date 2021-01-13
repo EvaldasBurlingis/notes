@@ -14,6 +14,27 @@ DROP TABLE <table name>;                # remove table
 
 ```
 
+## QUERIES
+
+* Get all data
+
+```sql
+    SELECT * FROM <table name>;
+```
+
+* Get selected columns
+
+```sql
+    SELECT id, email FROM <table name>;
+```
+
+* Get specified data.
+**Operators:** =, >, <, >=, <=, !=, BETWEEN, LIKE, IN 
+
+```sql
+    SELECT * FROM <table name> WHERE id = 5'
+```
+
 ## Managing users
 
 ```bash
@@ -33,3 +54,4 @@ sudo systemctl start mysql              # start mysql server
 sudo systemctl stop mysql               # stop mysql server
 
 ```
+
