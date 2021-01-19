@@ -5,16 +5,15 @@
 - [PHP](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/PHP)
 - [Javacript](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript)
     - [Cheatsheet](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript/cheatsheet.md)
+    - [Typescript](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript/typescript.md)
     - [Books](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/Javascript/books.md)
 - [MYSQL](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Languages/SQL/MYSQL/mysql.md)
 
----
 
 ## Frameworks
 
 - [Laravel](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Frameworks/Laravel)
 
----
 
 ## TOOLS
 
@@ -24,7 +23,6 @@
 - [IDE](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Tools/IDE/IDE.md)
 - [Apache](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Tools/Servers/Apache.md)
 
----
 
 ## Environment
 
@@ -32,7 +30,6 @@
 
 - [Linux](https://github.com/EvaldasBurlingis/programming_notes/tree/master/Linux)
 
----
 
 ## Books
 
